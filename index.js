@@ -31,6 +31,13 @@ let notes = [
     content: "GET and POST are the most important methods of HTTP protocol",
     important: true
   }
+
+  ,
+  {
+    id: "4",
+    content: "Ei oppi ojaan kaada - aikuistakaan",
+    important: true
+  }
 ]
 
 app.use(requestLogger)
